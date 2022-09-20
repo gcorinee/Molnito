@@ -1,0 +1,32 @@
+[
+    {
+        "title": "칭찬해주기",
+        "id": 101,
+        "check" : false,
+        "imageName" : "like"
+    }, 
+    {
+        "title": "간식 사주기",
+        "id": 102,
+        "check" : true,
+        "imageName" : "snack"
+    },
+    {
+        "title": "함께 사진 찍기",
+        "id": 103,
+        "check" : false,
+        "imageName" : "photo"
+    },
+    {
+        "title": "같이 밥 먹기",
+        "id": 104,
+        "check" : false,
+        "imageName" : "breakfast"
+    }, 
+    {
+        "title": "쪽지 써주기",
+        "id": 105,
+        "check" : true,
+        "imageName" : "letter"
+    }
+]
