@@ -11,7 +11,7 @@
 
 ## 개발 환경
 ### Front-end
-- OS: IOS
+- OS: IOS 15
 - IDE: Xcode
 - 언어: Swift
 ### Back-end
